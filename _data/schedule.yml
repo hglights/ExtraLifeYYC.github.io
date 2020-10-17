@@ -17,15 +17,15 @@ day:
         description: Compete in Alberta's only Super Smash Bros Ultimate Tournament on Game Day with AESA and Extra Life YYC. The event will be streamed on the official ExtraLifeYYC twitch channel.
         location: twitch.tv/extralifeyyc
       - name: Splatoon 2 Tournament
-        start: 2:00pm
-        end: 6:00PM MDT
+        start: 6:00pm
+        end: 10:00PM MDT
         host: Alberta Esports Association
         image: /assets/img/event/splatoon.jpg
         description: AESA is hosting a Splatoon 2 tournament on the Extra Life YYC discord. Register your whole team today and compete in brackets.
         location: 
       - name: Pokemon Sword & Shield
-        start: 3:30pm
-        end: 8:30PM MDT
+        start: Nov 8 8:00 am
+        end: 1:00PM MDT
         host: Alberta Esports Association
         image: /assets/img/event/pokemon.jpg
         description: More details about this event are being formed. Join our discord or signup to our newsletter to be informed of updates.
